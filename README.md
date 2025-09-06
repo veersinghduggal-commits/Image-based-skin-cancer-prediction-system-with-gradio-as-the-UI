@@ -1,0 +1,2 @@
+# Image-based-skin-cancer-prediction-system-with-gradio-as-the-UI
+An AI-powered skin cancer prediction system that analyzes skin lesion images and classifies them as benign or malignant. Built with deep learning models for accurate detection and Gradio for an interactive, user-friendly interface. Enables quick image uploads, real-time predictions, and an accessible demo for research and awareness.
